@@ -175,6 +175,11 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/lizaliliafb1)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/asadshareef)
 
+👤 **Aliza Amir**
+
+- GitHub: [@githubhandle](https://github.com/Alizaamir123)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/aliza-amir-545196215/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
