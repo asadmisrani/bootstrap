@@ -1,0 +1,107 @@
+.navbar {
+	width: 100%;
+	height: 72px;
+    background: #E5E5E5;
+    color: #FFFFFF;
+}
+
+.navbar-brand {
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.nav-link {
+	font-size: 1.25rem;
+	margin-left: 20px;
+}
+
+.nav-link i {
+	margin-left: 5px;
+}
+
+.navbar-nav {
+	margin-left: auto;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+	.navbar-brand {
+		font-size: 1.25rem;
+	}
+
+	.nav-link {
+		margin-left: 0;
+	}
+
+	.nav-link i {
+		margin-left: 10px;
+	}
+}
+
+.main-container {
+    width: 100%;
+    height: 870px;
+    background: #1C1A19;
+    position: relative;
+  }
+  
+  .container {
+    background-color: black;
+  }
+  .background-image {
+    position: absolute;
+    width: 600px;
+    height: 769.27px;
+    left: 1744.68px;
+    top: -135px;
+    background: url('img1.png') no-repeat center center fixed;
+    transform: matrix(-0.96, 0.27, 0.27, 0.96, 0, 0);
+  }
+  
+  .content {
+    /* height: 100%; */
+    /* padding: 192px 0px; */
+    gap: 24px;
+    color: #FF6B00;
+  }
+  
+  .content h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 1.25rem;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    text-align: left;
+    color: whitesmoke;
+  }
+
+  .recent {
+    position: absolute;
+    margin: 200px;
+    gap: 24px;
+    color: #FF6B00;
+    text-align: center;
+    height: auto;
+  }
+
+.card-text {
+    color: #091E42;
+}
+
+.card-title {
+    font-family: 'Crete Round';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+}
+
+
+
+
